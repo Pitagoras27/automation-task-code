@@ -1,2 +1,1 @@
-import "setimmediate";
-
+import 'setimmediate';
